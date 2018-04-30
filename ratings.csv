@@ -1,0 +1,1209 @@
+bankName,periodEnding,ratingScore,issuerName
+ANZ,1996-03-31 00:00:00,4,Standard and Poor's
+ANZ,1996-06-30 00:00:00,4,Standard and Poor's
+ANZ,1996-09-30 00:00:00,3,Standard and Poor's
+ANZ,1996-12-31 00:00:00,3,Standard and Poor's
+ANZ,1997-03-31 00:00:00,3,Standard and Poor's
+ANZ,1997-06-30 00:00:00,3,Standard and Poor's
+ANZ,1997-09-30 00:00:00,3,Standard and Poor's
+ANZ,1997-12-31 00:00:00,3,Standard and Poor's
+ANZ,1998-03-31 00:00:00,3,Standard and Poor's
+ANZ,1998-06-30 00:00:00,3,Standard and Poor's
+ANZ,1998-09-30 00:00:00,3,Standard and Poor's
+ANZ,1998-12-31 00:00:00,3,Standard and Poor's
+ANZ,1999-03-31 00:00:00,3,Standard and Poor's
+ANZ,1999-06-30 00:00:00,3,Standard and Poor's
+ANZ,1999-09-30 00:00:00,3,Standard and Poor's
+ANZ,1999-12-31 00:00:00,3,Standard and Poor's
+ANZ,2000-03-31 00:00:00,3,Standard and Poor's
+ANZ,2000-06-30 00:00:00,3,Moody's
+ANZ,2000-06-30 00:00:00,3,Standard and Poor's
+ANZ,2000-09-30 00:00:00,3,Moody's
+ANZ,2000-09-30 00:00:00,3,Standard and Poor's
+ANZ,2000-12-31 00:00:00,3,Moody's
+ANZ,2000-12-31 00:00:00,3,Standard and Poor's
+ANZ,2001-03-31 00:00:00,3,Moody's
+ANZ,2001-03-31 00:00:00,3,Standard and Poor's
+ANZ,2001-06-30 00:00:00,3,Moody's
+ANZ,2001-06-30 00:00:00,3,Standard and Poor's
+ANZ,2001-09-30 00:00:00,3,Moody's
+ANZ,2001-09-30 00:00:00,3,Standard and Poor's
+ANZ,2001-12-31 00:00:00,3,Moody's
+ANZ,2001-12-31 00:00:00,3,Standard and Poor's
+ANZ,2002-03-31 00:00:00,3,Moody's
+ANZ,2002-03-31 00:00:00,3,Standard and Poor's
+ANZ,2002-06-30 00:00:00,3,Moody's
+ANZ,2002-06-30 00:00:00,3,Standard and Poor's
+ANZ,2002-09-30 00:00:00,3,Moody's
+ANZ,2002-09-30 00:00:00,3,Standard and Poor's
+ANZ,2002-12-31 00:00:00,3,Moody's
+ANZ,2002-12-31 00:00:00,3,Standard and Poor's
+ANZ,2003-03-31 00:00:00,3,Moody's
+ANZ,2003-03-31 00:00:00,3,Standard and Poor's
+ANZ,2003-06-30 00:00:00,3,Moody's
+ANZ,2003-06-30 00:00:00,3,Standard and Poor's
+ANZ,2003-09-30 00:00:00,3,Moody's
+ANZ,2003-09-30 00:00:00,3,Standard and Poor's
+ANZ,2003-12-31 00:00:00,3,Moody's
+ANZ,2003-12-31 00:00:00,3,Standard and Poor's
+ANZ,2004-03-31 00:00:00,3,Moody's
+ANZ,2004-03-31 00:00:00,3,Standard and Poor's
+ANZ,2004-06-30 00:00:00,3,Moody's
+ANZ,2004-06-30 00:00:00,3,Standard and Poor's
+ANZ,2004-09-30 00:00:00,3,Moody's
+ANZ,2004-09-30 00:00:00,3,Standard and Poor's
+ANZ,2004-12-31 00:00:00,3,Moody's
+ANZ,2004-12-31 00:00:00,3,Standard and Poor's
+ANZ,2005-03-31 00:00:00,3,Moody's
+ANZ,2005-03-31 00:00:00,3,Standard and Poor's
+ANZ,2005-06-30 00:00:00,3,Moody's
+ANZ,2005-06-30 00:00:00,3,Standard and Poor's
+ANZ,2005-09-30 00:00:00,3,Moody's
+ANZ,2005-09-30 00:00:00,3,Standard and Poor's
+ANZ,2005-12-31 00:00:00,3,Moody's
+ANZ,2005-12-31 00:00:00,3,Standard and Poor's
+ANZ,2006-03-31 00:00:00,3,Moody's
+ANZ,2006-03-31 00:00:00,3,Standard and Poor's
+ANZ,2006-06-30 00:00:00,3,Moody's
+ANZ,2006-06-30 00:00:00,3,Standard and Poor's
+ANZ,2006-09-30 00:00:00,3,Moody's
+ANZ,2006-09-30 00:00:00,3,Standard and Poor's
+ANZ,2006-12-31 00:00:00,3,Moody's
+ANZ,2006-12-31 00:00:00,3,Standard and Poor's
+ANZ,2007-03-31 00:00:00,3,Moody's
+ANZ,2007-03-31 00:00:00,2,Standard and Poor's
+ANZ,2007-06-30 00:00:00,2,Moody's
+ANZ,2007-06-30 00:00:00,2,Standard and Poor's
+ANZ,2007-09-30 00:00:00,2,Moody's
+ANZ,2007-09-30 00:00:00,2,Standard and Poor's
+ANZ,2007-12-31 00:00:00,2,Moody's
+ANZ,2007-12-31 00:00:00,2,Standard and Poor's
+ANZ,2008-03-31 00:00:00,2,Moody's
+ANZ,2008-03-31 00:00:00,2,Standard and Poor's
+ANZ,2008-03-31 00:00:00,3,Fitch
+ANZ,2008-06-30 00:00:00,2,Moody's
+ANZ,2008-06-30 00:00:00,2,Standard and Poor's
+ANZ,2008-06-30 00:00:00,3,Fitch
+ANZ,2008-09-30 00:00:00,2,Moody's
+ANZ,2008-09-30 00:00:00,2,Standard and Poor's
+ANZ,2008-09-30 00:00:00,3,Fitch
+ANZ,2008-12-31 00:00:00,2,Moody's
+ANZ,2008-12-31 00:00:00,2,Standard and Poor's
+ANZ,2008-12-31 00:00:00,3,Fitch
+ANZ,2009-03-31 00:00:00,2,Moody's
+ANZ,2009-03-31 00:00:00,2,Standard and Poor's
+ANZ,2009-03-31 00:00:00,3,Fitch
+ANZ,2009-06-30 00:00:00,2,Moody's
+ANZ,2009-06-30 00:00:00,2,Standard and Poor's
+ANZ,2009-06-30 00:00:00,3,Fitch
+ANZ,2009-09-30 00:00:00,2,Moody's
+ANZ,2009-09-30 00:00:00,2,Standard and Poor's
+ANZ,2009-09-30 00:00:00,3,Fitch
+ANZ,2009-12-31 00:00:00,2,Moody's
+ANZ,2009-12-31 00:00:00,2,Standard and Poor's
+ANZ,2009-12-31 00:00:00,3,Fitch
+ANZ,2010-03-31 00:00:00,2,Moody's
+ANZ,2010-03-31 00:00:00,2,Standard and Poor's
+ANZ,2010-03-31 00:00:00,3,Fitch
+ANZ,2010-06-30 00:00:00,2,Moody's
+ANZ,2010-06-30 00:00:00,2,Standard and Poor's
+ANZ,2010-06-30 00:00:00,3,Fitch
+ANZ,2010-09-30 00:00:00,2,Moody's
+ANZ,2010-09-30 00:00:00,2,Standard and Poor's
+ANZ,2010-09-30 00:00:00,3,Fitch
+ANZ,2010-12-31 00:00:00,2,Moody's
+ANZ,2010-12-31 00:00:00,2,Standard and Poor's
+ANZ,2010-12-31 00:00:00,3,Fitch
+ANZ,2011-03-31 00:00:00,2,Moody's
+ANZ,2011-03-31 00:00:00,2,Standard and Poor's
+ANZ,2011-03-31 00:00:00,3,Fitch
+ANZ,2011-06-30 00:00:00,3,Moody's
+ANZ,2011-06-30 00:00:00,2,Standard and Poor's
+ANZ,2011-06-30 00:00:00,3,Fitch
+ANZ,2011-09-30 00:00:00,3,Moody's
+ANZ,2011-09-30 00:00:00,2,Standard and Poor's
+ANZ,2011-09-30 00:00:00,3,Fitch
+ANZ,2011-12-31 00:00:00,3,Moody's
+ANZ,2011-12-31 00:00:00,3,Standard and Poor's
+ANZ,2011-12-31 00:00:00,3,Fitch
+ANZ,2012-03-31 00:00:00,3,Moody's
+ANZ,2012-03-31 00:00:00,3,Standard and Poor's
+ANZ,2012-03-31 00:00:00,3,Fitch
+ANZ,2012-06-30 00:00:00,3,Moody's
+ANZ,2012-06-30 00:00:00,3,Standard and Poor's
+ANZ,2012-06-30 00:00:00,3,Fitch
+ANZ,2012-09-30 00:00:00,3,Moody's
+ANZ,2012-09-30 00:00:00,3,Standard and Poor's
+ANZ,2012-09-30 00:00:00,3,Fitch
+ANZ,2012-12-31 00:00:00,3,Moody's
+ANZ,2012-12-31 00:00:00,3,Standard and Poor's
+ANZ,2012-12-31 00:00:00,3,Fitch
+ANZ,2013-03-31 00:00:00,3,Moody's
+ANZ,2013-03-31 00:00:00,3,Standard and Poor's
+ANZ,2013-03-31 00:00:00,3,Fitch
+ANZ,2013-06-30 00:00:00,3,Moody's
+ANZ,2013-06-30 00:00:00,3,Standard and Poor's
+ANZ,2013-06-30 00:00:00,3,Fitch
+ANZ,2013-09-30 00:00:00,3,Moody's
+ANZ,2013-09-30 00:00:00,3,Standard and Poor's
+ANZ,2013-09-30 00:00:00,3,Fitch
+ANZ,2013-12-31 00:00:00,3,Moody's
+ANZ,2013-12-31 00:00:00,3,Standard and Poor's
+ANZ,2013-12-31 00:00:00,3,Fitch
+ANZ,2014-03-31 00:00:00,3,Moody's
+ANZ,2014-03-31 00:00:00,3,Standard and Poor's
+ANZ,2014-03-31 00:00:00,3,Fitch
+ANZ,2014-06-30 00:00:00,3,Moody's
+ANZ,2014-06-30 00:00:00,3,Standard and Poor's
+ANZ,2014-06-30 00:00:00,3,Fitch
+ANZ,2014-09-30 00:00:00,3,Moody's
+ANZ,2014-09-30 00:00:00,3,Standard and Poor's
+ANZ,2014-09-30 00:00:00,3,Fitch
+ANZ,2014-12-31 00:00:00,3,Moody's
+ANZ,2014-12-31 00:00:00,3,Standard and Poor's
+ANZ,2014-12-31 00:00:00,3,Fitch
+ANZ,2015-03-31 00:00:00,3,Moody's
+ANZ,2015-03-31 00:00:00,3,Standard and Poor's
+ANZ,2015-03-31 00:00:00,3,Fitch
+ANZ,2015-06-30 00:00:00,3,Moody's
+ANZ,2015-06-30 00:00:00,3,Standard and Poor's
+ANZ,2015-06-30 00:00:00,3,Fitch
+ANZ,2015-09-30 00:00:00,3,Moody's
+ANZ,2015-09-30 00:00:00,3,Standard and Poor's
+ANZ,2015-09-30 00:00:00,3,Fitch
+ANZ,2015-12-31 00:00:00,3,Moody's
+ANZ,2015-12-31 00:00:00,3,Standard and Poor's
+ANZ,2015-12-31 00:00:00,3,Fitch
+ANZ,2016-03-31 00:00:00,3,Moody's
+ANZ,2016-03-31 00:00:00,3,Standard and Poor's
+ANZ,2016-03-31 00:00:00,3,Fitch
+ANZ,2016-06-30 00:00:00,3,Moody's
+ANZ,2016-06-30 00:00:00,3,Standard and Poor's
+ANZ,2016-06-30 00:00:00,3,Fitch
+ANZ,2016-09-30 00:00:00,3,Moody's
+ANZ,2016-09-30 00:00:00,3,Standard and Poor's
+ANZ,2016-09-30 00:00:00,3,Fitch
+ANZ,2016-12-31 00:00:00,3,Moody's
+ANZ,2016-12-31 00:00:00,3,Standard and Poor's
+ANZ,2016-12-31 00:00:00,3,Fitch
+ANZ,2017-03-31 00:00:00,3,Moody's
+ANZ,2017-03-31 00:00:00,3,Standard and Poor's
+ANZ,2017-03-31 00:00:00,3,Fitch
+ANZ,2017-06-30 00:00:00,4,Moody's
+ANZ,2017-06-30 00:00:00,3,Standard and Poor's
+ANZ,2017-06-30 00:00:00,3,Fitch
+ANZ,2017-09-30 00:00:00,4,Moody's
+ANZ,2017-09-30 00:00:00,3,Standard and Poor's
+ANZ,2017-09-30 00:00:00,3,Fitch
+ANZ,2017-12-31 00:00:00,4,Moody's
+ANZ,2017-12-31 00:00:00,3,Standard and Poor's
+ANZ,2017-12-31 00:00:00,3,Fitch
+ASB,1996-03-31 00:00:00,3,Standard and Poor's
+ASB,1996-06-30 00:00:00,4,Standard and Poor's
+ASB,1996-09-30 00:00:00,4,Standard and Poor's
+ASB,1996-12-31 00:00:00,4,Standard and Poor's
+ASB,1997-03-31 00:00:00,4,Standard and Poor's
+ASB,1997-06-30 00:00:00,4,Standard and Poor's
+ASB,1997-09-30 00:00:00,4,Standard and Poor's
+ASB,1997-12-31 00:00:00,4,Standard and Poor's
+ASB,1998-03-31 00:00:00,4,Standard and Poor's
+ASB,1998-06-30 00:00:00,4,Standard and Poor's
+ASB,1998-09-30 00:00:00,4,Standard and Poor's
+ASB,1998-12-31 00:00:00,4,Standard and Poor's
+ASB,1999-03-31 00:00:00,4,Standard and Poor's
+ASB,1999-06-30 00:00:00,4,Standard and Poor's
+ASB,1999-09-30 00:00:00,4,Standard and Poor's
+ASB,1999-12-31 00:00:00,4,Standard and Poor's
+ASB,2000-03-31 00:00:00,4,Standard and Poor's
+ASB,2000-06-30 00:00:00,4,Standard and Poor's
+ASB,2000-09-30 00:00:00,4,Standard and Poor's
+ASB,2000-12-31 00:00:00,3,Standard and Poor's
+ASB,2001-03-31 00:00:00,3,Standard and Poor's
+ASB,2001-06-30 00:00:00,3,Standard and Poor's
+ASB,2001-09-30 00:00:00,3,Standard and Poor's
+ASB,2001-12-31 00:00:00,3,Standard and Poor's
+ASB,2002-03-31 00:00:00,3,Standard and Poor's
+ASB,2002-06-30 00:00:00,3,Standard and Poor's
+ASB,2002-09-30 00:00:00,3,Standard and Poor's
+ASB,2002-12-31 00:00:00,3,Standard and Poor's
+ASB,2003-03-31 00:00:00,3,Standard and Poor's
+ASB,2003-06-30 00:00:00,3,Standard and Poor's
+ASB,2003-09-30 00:00:00,3,Standard and Poor's
+ASB,2003-12-31 00:00:00,3,Moody's
+ASB,2003-12-31 00:00:00,3,Standard and Poor's
+ASB,2004-03-31 00:00:00,3,Moody's
+ASB,2004-03-31 00:00:00,3,Standard and Poor's
+ASB,2004-06-30 00:00:00,3,Moody's
+ASB,2004-06-30 00:00:00,3,Standard and Poor's
+ASB,2004-09-30 00:00:00,3,Moody's
+ASB,2004-09-30 00:00:00,3,Standard and Poor's
+ASB,2004-12-31 00:00:00,3,Moody's
+ASB,2004-12-31 00:00:00,3,Standard and Poor's
+ASB,2005-03-31 00:00:00,3,Moody's
+ASB,2005-03-31 00:00:00,3,Standard and Poor's
+ASB,2005-06-30 00:00:00,3,Moody's
+ASB,2005-06-30 00:00:00,3,Standard and Poor's
+ASB,2005-09-30 00:00:00,3,Moody's
+ASB,2005-09-30 00:00:00,3,Standard and Poor's
+ASB,2005-12-31 00:00:00,3,Moody's
+ASB,2005-12-31 00:00:00,3,Standard and Poor's
+ASB,2006-03-31 00:00:00,3,Moody's
+ASB,2006-03-31 00:00:00,3,Standard and Poor's
+ASB,2006-06-30 00:00:00,3,Moody's
+ASB,2006-06-30 00:00:00,3,Standard and Poor's
+ASB,2006-09-30 00:00:00,3,Moody's
+ASB,2006-09-30 00:00:00,3,Standard and Poor's
+ASB,2006-12-31 00:00:00,3,Moody's
+ASB,2006-12-31 00:00:00,3,Standard and Poor's
+ASB,2007-03-31 00:00:00,3,Moody's
+ASB,2007-03-31 00:00:00,2,Standard and Poor's
+ASB,2007-06-30 00:00:00,2,Moody's
+ASB,2007-06-30 00:00:00,2,Standard and Poor's
+ASB,2007-09-30 00:00:00,2,Moody's
+ASB,2007-09-30 00:00:00,2,Standard and Poor's
+ASB,2007-12-31 00:00:00,2,Moody's
+ASB,2007-12-31 00:00:00,2,Standard and Poor's
+ASB,2008-03-31 00:00:00,2,Moody's
+ASB,2008-03-31 00:00:00,2,Standard and Poor's
+ASB,2008-06-30 00:00:00,2,Moody's
+ASB,2008-06-30 00:00:00,2,Standard and Poor's
+ASB,2008-09-30 00:00:00,2,Moody's
+ASB,2008-09-30 00:00:00,2,Standard and Poor's
+ASB,2008-12-31 00:00:00,2,Moody's
+ASB,2008-12-31 00:00:00,2,Standard and Poor's
+ASB,2009-03-31 00:00:00,2,Moody's
+ASB,2009-03-31 00:00:00,2,Standard and Poor's
+ASB,2009-06-30 00:00:00,2,Moody's
+ASB,2009-06-30 00:00:00,2,Standard and Poor's
+ASB,2009-09-30 00:00:00,2,Moody's
+ASB,2009-09-30 00:00:00,2,Standard and Poor's
+ASB,2009-12-31 00:00:00,2,Moody's
+ASB,2009-12-31 00:00:00,2,Standard and Poor's
+ASB,2010-03-31 00:00:00,2,Moody's
+ASB,2010-03-31 00:00:00,2,Standard and Poor's
+ASB,2010-06-30 00:00:00,2,Moody's
+ASB,2010-06-30 00:00:00,2,Standard and Poor's
+ASB,2010-09-30 00:00:00,2,Moody's
+ASB,2010-09-30 00:00:00,2,Standard and Poor's
+ASB,2010-12-31 00:00:00,2,Moody's
+ASB,2010-12-31 00:00:00,2,Standard and Poor's
+ASB,2011-03-31 00:00:00,2,Moody's
+ASB,2011-03-31 00:00:00,2,Standard and Poor's
+ASB,2011-06-30 00:00:00,3,Moody's
+ASB,2011-06-30 00:00:00,2,Standard and Poor's
+ASB,2011-09-30 00:00:00,3,Moody's
+ASB,2011-09-30 00:00:00,2,Standard and Poor's
+ASB,2011-09-30 00:00:00,2,Fitch
+ASB,2011-12-31 00:00:00,3,Moody's
+ASB,2011-12-31 00:00:00,3,Standard and Poor's
+ASB,2011-12-31 00:00:00,2,Fitch
+ASB,2012-03-31 00:00:00,3,Moody's
+ASB,2012-03-31 00:00:00,3,Standard and Poor's
+ASB,2012-03-31 00:00:00,2,Fitch
+ASB,2012-06-30 00:00:00,3,Moody's
+ASB,2012-06-30 00:00:00,3,Standard and Poor's
+ASB,2012-06-30 00:00:00,3,Fitch
+ASB,2012-09-30 00:00:00,3,Moody's
+ASB,2012-09-30 00:00:00,3,Standard and Poor's
+ASB,2012-09-30 00:00:00,3,Fitch
+ASB,2012-12-31 00:00:00,3,Moody's
+ASB,2012-12-31 00:00:00,3,Standard and Poor's
+ASB,2012-12-31 00:00:00,3,Fitch
+ASB,2013-03-31 00:00:00,3,Moody's
+ASB,2013-03-31 00:00:00,3,Standard and Poor's
+ASB,2013-03-31 00:00:00,3,Fitch
+ASB,2013-06-30 00:00:00,3,Moody's
+ASB,2013-06-30 00:00:00,3,Standard and Poor's
+ASB,2013-06-30 00:00:00,3,Fitch
+ASB,2013-09-30 00:00:00,3,Moody's
+ASB,2013-09-30 00:00:00,3,Standard and Poor's
+ASB,2013-09-30 00:00:00,3,Fitch
+ASB,2013-12-31 00:00:00,3,Moody's
+ASB,2013-12-31 00:00:00,3,Standard and Poor's
+ASB,2013-12-31 00:00:00,3,Fitch
+ASB,2014-03-31 00:00:00,3,Moody's
+ASB,2014-03-31 00:00:00,3,Standard and Poor's
+ASB,2014-03-31 00:00:00,3,Fitch
+ASB,2014-06-30 00:00:00,3,Moody's
+ASB,2014-06-30 00:00:00,3,Standard and Poor's
+ASB,2014-06-30 00:00:00,3,Fitch
+ASB,2014-09-30 00:00:00,3,Moody's
+ASB,2014-09-30 00:00:00,3,Standard and Poor's
+ASB,2014-09-30 00:00:00,3,Fitch
+ASB,2014-12-31 00:00:00,3,Moody's
+ASB,2014-12-31 00:00:00,3,Standard and Poor's
+ASB,2014-12-31 00:00:00,3,Fitch
+ASB,2015-03-31 00:00:00,3,Moody's
+ASB,2015-03-31 00:00:00,3,Standard and Poor's
+ASB,2015-03-31 00:00:00,3,Fitch
+ASB,2015-06-30 00:00:00,3,Moody's
+ASB,2015-06-30 00:00:00,3,Standard and Poor's
+ASB,2015-06-30 00:00:00,3,Fitch
+ASB,2015-09-30 00:00:00,3,Moody's
+ASB,2015-09-30 00:00:00,3,Standard and Poor's
+ASB,2015-09-30 00:00:00,3,Fitch
+ASB,2015-12-31 00:00:00,3,Moody's
+ASB,2015-12-31 00:00:00,3,Standard and Poor's
+ASB,2015-12-31 00:00:00,3,Fitch
+ASB,2016-03-31 00:00:00,3,Moody's
+ASB,2016-03-31 00:00:00,3,Standard and Poor's
+ASB,2016-03-31 00:00:00,3,Fitch
+ASB,2016-06-30 00:00:00,3,Moody's
+ASB,2016-06-30 00:00:00,3,Standard and Poor's
+ASB,2016-06-30 00:00:00,3,Fitch
+ASB,2016-09-30 00:00:00,3,Moody's
+ASB,2016-09-30 00:00:00,3,Standard and Poor's
+ASB,2016-09-30 00:00:00,3,Fitch
+ASB,2016-12-31 00:00:00,3,Moody's
+ASB,2016-12-31 00:00:00,3,Standard and Poor's
+ASB,2016-12-31 00:00:00,3,Fitch
+ASB,2017-03-31 00:00:00,3,Moody's
+ASB,2017-03-31 00:00:00,3,Standard and Poor's
+ASB,2017-03-31 00:00:00,3,Fitch
+ASB,2017-06-30 00:00:00,4,Moody's
+ASB,2017-06-30 00:00:00,3,Standard and Poor's
+ASB,2017-06-30 00:00:00,3,Fitch
+ASB,2017-09-30 00:00:00,4,Moody's
+ASB,2017-09-30 00:00:00,3,Standard and Poor's
+ASB,2017-09-30 00:00:00,3,Fitch
+ASB,2017-12-31 00:00:00,4,Moody's
+ASB,2017-12-31 00:00:00,3,Standard and Poor's
+ASB,2017-12-31 00:00:00,3,Fitch
+BNZ,1996-03-31 00:00:00,2,Standard and Poor's
+BNZ,1996-06-30 00:00:00,2,Standard and Poor's
+BNZ,1996-09-30 00:00:00,2,Standard and Poor's
+BNZ,1996-12-31 00:00:00,2,Standard and Poor's
+BNZ,1997-03-31 00:00:00,2,Standard and Poor's
+BNZ,1997-06-30 00:00:00,2,Standard and Poor's
+BNZ,1997-09-30 00:00:00,2,Standard and Poor's
+BNZ,1997-12-31 00:00:00,2,Standard and Poor's
+BNZ,1998-03-31 00:00:00,2,Standard and Poor's
+BNZ,1998-06-30 00:00:00,2,Standard and Poor's
+BNZ,1998-09-30 00:00:00,2,Standard and Poor's
+BNZ,1998-12-31 00:00:00,2,Standard and Poor's
+BNZ,1999-03-31 00:00:00,2,Standard and Poor's
+BNZ,1999-06-30 00:00:00,2,Standard and Poor's
+BNZ,1999-09-30 00:00:00,2,Standard and Poor's
+BNZ,1999-12-31 00:00:00,2,Standard and Poor's
+BNZ,2000-03-31 00:00:00,2,Standard and Poor's
+BNZ,2000-06-30 00:00:00,2,Standard and Poor's
+BNZ,2000-09-30 00:00:00,2,Standard and Poor's
+BNZ,2000-12-31 00:00:00,2,Standard and Poor's
+BNZ,2001-03-31 00:00:00,2,Standard and Poor's
+BNZ,2001-06-30 00:00:00,2,Standard and Poor's
+BNZ,2001-09-30 00:00:00,2,Standard and Poor's
+BNZ,2001-12-31 00:00:00,2,Standard and Poor's
+BNZ,2002-03-31 00:00:00,2,Standard and Poor's
+BNZ,2002-06-30 00:00:00,2,Standard and Poor's
+BNZ,2002-09-30 00:00:00,2,Standard and Poor's
+BNZ,2002-12-31 00:00:00,2,Standard and Poor's
+BNZ,2003-03-31 00:00:00,2,Standard and Poor's
+BNZ,2003-06-30 00:00:00,2,Standard and Poor's
+BNZ,2003-09-30 00:00:00,2,Standard and Poor's
+BNZ,2003-12-31 00:00:00,2,Standard and Poor's
+BNZ,2004-03-31 00:00:00,3,Standard and Poor's
+BNZ,2004-06-30 00:00:00,3,Standard and Poor's
+BNZ,2004-09-30 00:00:00,3,Standard and Poor's
+BNZ,2004-12-31 00:00:00,3,Standard and Poor's
+BNZ,2005-03-31 00:00:00,3,Standard and Poor's
+BNZ,2005-06-30 00:00:00,3,Standard and Poor's
+BNZ,2005-09-30 00:00:00,3,Moody's
+BNZ,2005-09-30 00:00:00,3,Standard and Poor's
+BNZ,2005-12-31 00:00:00,3,Moody's
+BNZ,2005-12-31 00:00:00,3,Standard and Poor's
+BNZ,2006-03-31 00:00:00,3,Moody's
+BNZ,2006-03-31 00:00:00,3,Standard and Poor's
+BNZ,2006-06-30 00:00:00,3,Moody's
+BNZ,2006-06-30 00:00:00,3,Standard and Poor's
+BNZ,2006-09-30 00:00:00,3,Moody's
+BNZ,2006-09-30 00:00:00,3,Standard and Poor's
+BNZ,2006-12-31 00:00:00,3,Moody's
+BNZ,2006-12-31 00:00:00,3,Standard and Poor's
+BNZ,2007-03-31 00:00:00,2,Moody's
+BNZ,2007-03-31 00:00:00,2,Standard and Poor's
+BNZ,2007-06-30 00:00:00,2,Moody's
+BNZ,2007-06-30 00:00:00,2,Standard and Poor's
+BNZ,2007-09-30 00:00:00,2,Moody's
+BNZ,2007-09-30 00:00:00,2,Standard and Poor's
+BNZ,2007-12-31 00:00:00,2,Moody's
+BNZ,2007-12-31 00:00:00,2,Standard and Poor's
+BNZ,2008-03-31 00:00:00,2,Moody's
+BNZ,2008-03-31 00:00:00,2,Standard and Poor's
+BNZ,2008-06-30 00:00:00,2,Moody's
+BNZ,2008-06-30 00:00:00,2,Standard and Poor's
+BNZ,2008-09-30 00:00:00,2,Moody's
+BNZ,2008-09-30 00:00:00,2,Standard and Poor's
+BNZ,2008-12-31 00:00:00,2,Moody's
+BNZ,2008-12-31 00:00:00,2,Standard and Poor's
+BNZ,2009-03-31 00:00:00,2,Moody's
+BNZ,2009-03-31 00:00:00,2,Standard and Poor's
+BNZ,2009-06-30 00:00:00,2,Moody's
+BNZ,2009-06-30 00:00:00,2,Standard and Poor's
+BNZ,2009-09-30 00:00:00,2,Moody's
+BNZ,2009-09-30 00:00:00,2,Standard and Poor's
+BNZ,2009-12-31 00:00:00,2,Moody's
+BNZ,2009-12-31 00:00:00,2,Standard and Poor's
+BNZ,2010-03-31 00:00:00,2,Moody's
+BNZ,2010-03-31 00:00:00,2,Standard and Poor's
+BNZ,2010-06-30 00:00:00,2,Moody's
+BNZ,2010-06-30 00:00:00,2,Standard and Poor's
+BNZ,2010-09-30 00:00:00,2,Moody's
+BNZ,2010-09-30 00:00:00,2,Standard and Poor's
+BNZ,2010-12-31 00:00:00,2,Moody's
+BNZ,2010-12-31 00:00:00,2,Standard and Poor's
+BNZ,2011-03-31 00:00:00,2,Moody's
+BNZ,2011-03-31 00:00:00,2,Standard and Poor's
+BNZ,2011-06-30 00:00:00,3,Moody's
+BNZ,2011-06-30 00:00:00,2,Standard and Poor's
+BNZ,2011-09-30 00:00:00,3,Moody's
+BNZ,2011-09-30 00:00:00,3,Standard and Poor's
+BNZ,2011-12-31 00:00:00,3,Moody's
+BNZ,2011-12-31 00:00:00,3,Standard and Poor's
+BNZ,2012-03-31 00:00:00,3,Moody's
+BNZ,2012-03-31 00:00:00,3,Standard and Poor's
+BNZ,2012-06-30 00:00:00,3,Moody's
+BNZ,2012-06-30 00:00:00,3,Standard and Poor's
+BNZ,2012-09-30 00:00:00,3,Moody's
+BNZ,2012-09-30 00:00:00,3,Standard and Poor's
+BNZ,2012-12-31 00:00:00,3,Moody's
+BNZ,2012-12-31 00:00:00,3,Standard and Poor's
+BNZ,2013-03-31 00:00:00,3,Moody's
+BNZ,2013-03-31 00:00:00,3,Standard and Poor's
+BNZ,2013-06-30 00:00:00,3,Moody's
+BNZ,2013-06-30 00:00:00,3,Standard and Poor's
+BNZ,2013-09-30 00:00:00,3,Moody's
+BNZ,2013-09-30 00:00:00,3,Standard and Poor's
+BNZ,2013-12-31 00:00:00,3,Moody's
+BNZ,2013-12-31 00:00:00,3,Standard and Poor's
+BNZ,2014-03-31 00:00:00,3,Moody's
+BNZ,2014-03-31 00:00:00,3,Standard and Poor's
+BNZ,2014-06-30 00:00:00,3,Moody's
+BNZ,2014-06-30 00:00:00,3,Standard and Poor's
+BNZ,2014-09-30 00:00:00,3,Moody's
+BNZ,2014-09-30 00:00:00,3,Standard and Poor's
+BNZ,2014-12-31 00:00:00,3,Moody's
+BNZ,2014-12-31 00:00:00,3,Standard and Poor's
+BNZ,2014-12-31 00:00:00,3,Fitch
+BNZ,2015-03-31 00:00:00,3,Moody's
+BNZ,2015-03-31 00:00:00,3,Standard and Poor's
+BNZ,2015-03-31 00:00:00,3,Fitch
+BNZ,2015-06-30 00:00:00,3,Moody's
+BNZ,2015-06-30 00:00:00,3,Standard and Poor's
+BNZ,2015-06-30 00:00:00,3,Fitch
+BNZ,2015-09-30 00:00:00,3,Moody's
+BNZ,2015-09-30 00:00:00,3,Standard and Poor's
+BNZ,2015-09-30 00:00:00,3,Fitch
+BNZ,2015-12-31 00:00:00,3,Moody's
+BNZ,2015-12-31 00:00:00,3,Standard and Poor's
+BNZ,2015-12-31 00:00:00,3,Fitch
+BNZ,2016-03-31 00:00:00,3,Moody's
+BNZ,2016-03-31 00:00:00,3,Standard and Poor's
+BNZ,2016-03-31 00:00:00,3,Fitch
+BNZ,2016-06-30 00:00:00,3,Moody's
+BNZ,2016-06-30 00:00:00,3,Standard and Poor's
+BNZ,2016-06-30 00:00:00,3,Fitch
+BNZ,2016-09-30 00:00:00,3,Moody's
+BNZ,2016-09-30 00:00:00,3,Standard and Poor's
+BNZ,2016-09-30 00:00:00,3,Fitch
+BNZ,2016-12-31 00:00:00,3,Moody's
+BNZ,2016-12-31 00:00:00,3,Standard and Poor's
+BNZ,2016-12-31 00:00:00,3,Fitch
+BNZ,2017-03-31 00:00:00,3,Moody's
+BNZ,2017-03-31 00:00:00,3,Standard and Poor's
+BNZ,2017-03-31 00:00:00,3,Fitch
+BNZ,2017-06-30 00:00:00,4,Moody's
+BNZ,2017-06-30 00:00:00,3,Standard and Poor's
+BNZ,2017-06-30 00:00:00,3,Fitch
+BNZ,2017-09-30 00:00:00,4,Moody's
+BNZ,2017-09-30 00:00:00,3,Standard and Poor's
+BNZ,2017-09-30 00:00:00,3,Fitch
+BNZ,2017-12-31 00:00:00,4,Moody's
+BNZ,2017-12-31 00:00:00,3,Standard and Poor's
+BNZ,2017-12-31 00:00:00,3,Fitch
+Bankers Trust,1996-03-31 00:00:00,4,Standard and Poor's
+Bankers Trust,1996-06-30 00:00:00,4,Standard and Poor's
+Bankers Trust,1996-09-30 00:00:00,4,Standard and Poor's
+Bankers Trust,1996-12-31 00:00:00,4,Standard and Poor's
+Bankers Trust,1997-03-31 00:00:00,4,Standard and Poor's
+Bankers Trust,1997-06-30 00:00:00,4,Standard and Poor's
+Bankers Trust,1997-09-30 00:00:00,4,Standard and Poor's
+Bankers Trust,1997-12-31 00:00:00,4,Standard and Poor's
+Bankers Trust,1998-03-31 00:00:00,4,Standard and Poor's
+Bankers Trust,1998-06-30 00:00:00,5,Standard and Poor's
+Bankers Trust,1998-09-30 00:00:00,5,Standard and Poor's
+Bankers Trust,1998-12-31 00:00:00,5,Standard and Poor's
+Bankers Trust,1999-03-31 00:00:00,3,Standard and Poor's
+Country-wide,1996-02-29 00:00:00,5,Standard and Poor's
+Country-wide,1996-05-31 00:00:00,5,Standard and Poor's
+Country-wide,1996-08-31 00:00:00,5,Standard and Poor's
+Country-wide,1996-11-30 00:00:00,5,Standard and Poor's
+Country-wide,1997-02-28 00:00:00,5,Standard and Poor's
+Country-wide,1997-05-31 00:00:00,5,Standard and Poor's
+Country-wide,1997-08-31 00:00:00,5,Standard and Poor's
+Country-wide,1997-11-30 00:00:00,5,Standard and Poor's
+Country-wide,1998-02-28 00:00:00,5,Standard and Poor's
+Country-wide,1998-05-31 00:00:00,5,Standard and Poor's
+National,1996-03-31 00:00:00,3,Standard and Poor's
+National,1996-06-30 00:00:00,3,Standard and Poor's
+National,1996-09-30 00:00:00,3,Standard and Poor's
+National,1996-12-31 00:00:00,3,Standard and Poor's
+National,1997-03-31 00:00:00,3,Standard and Poor's
+National,1997-06-30 00:00:00,3,Standard and Poor's
+National,1997-09-30 00:00:00,3,Standard and Poor's
+National,1997-12-31 00:00:00,3,Standard and Poor's
+National,1998-03-31 00:00:00,3,Standard and Poor's
+National,1998-06-30 00:00:00,3,Standard and Poor's
+National,1998-09-30 00:00:00,3,Standard and Poor's
+National,1998-12-31 00:00:00,3,Standard and Poor's
+National,1999-03-31 00:00:00,3,Standard and Poor's
+National,1999-06-30 00:00:00,3,Standard and Poor's
+National,1999-09-30 00:00:00,3,Standard and Poor's
+National,1999-12-31 00:00:00,3,Standard and Poor's
+National,2000-03-31 00:00:00,3,Standard and Poor's
+National,2000-06-30 00:00:00,1,Moody's
+National,2000-06-30 00:00:00,3,Standard and Poor's
+National,2000-09-30 00:00:00,1,Moody's
+National,2000-09-30 00:00:00,3,Standard and Poor's
+National,2000-12-31 00:00:00,1,Moody's
+National,2000-12-31 00:00:00,3,Standard and Poor's
+National,2001-03-31 00:00:00,1,Moody's
+National,2001-03-31 00:00:00,3,Standard and Poor's
+National,2001-06-30 00:00:00,1,Moody's
+National,2001-06-30 00:00:00,3,Standard and Poor's
+National,2001-09-30 00:00:00,1,Moody's
+National,2001-09-30 00:00:00,3,Standard and Poor's
+National,2001-12-31 00:00:00,1,Moody's
+National,2001-12-31 00:00:00,3,Standard and Poor's
+National,2002-03-31 00:00:00,1,Moody's
+National,2002-03-31 00:00:00,3,Standard and Poor's
+National,2002-06-30 00:00:00,1,Moody's
+National,2002-06-30 00:00:00,3,Standard and Poor's
+National,2002-09-30 00:00:00,1,Moody's
+National,2002-09-30 00:00:00,3,Standard and Poor's
+National,2002-12-31 00:00:00,1,Moody's
+National,2002-12-31 00:00:00,3,Standard and Poor's
+National,2003-03-31 00:00:00,1,Moody's
+National,2003-03-31 00:00:00,4,Standard and Poor's
+National,2003-06-30 00:00:00,1,Moody's
+National,2003-06-30 00:00:00,4,Standard and Poor's
+National,2003-09-30 00:00:00,3,Moody's
+National,2003-09-30 00:00:00,4,Standard and Poor's
+National,2003-12-31 00:00:00,3,Moody's
+National,2003-12-31 00:00:00,3,Standard and Poor's
+National,2004-03-31 00:00:00,3,Moody's
+National,2004-03-31 00:00:00,3,Standard and Poor's
+Trust Bank,1996-03-31 00:00:00,5,Standard and Poor's
+Trust Bank,1996-06-30 00:00:00,4,Standard and Poor's
+Rabo New Zealand,2001-06-30 00:00:00,0,Standard and Poor's
+Rabo New Zealand,2001-09-30 00:00:00,0,Standard and Poor's
+Rabo New Zealand,2001-12-31 00:00:00,0,Standard and Poor's
+Rabo New Zealand,2002-03-31 00:00:00,0,Standard and Poor's
+Rabo New Zealand,2002-06-30 00:00:00,0,Standard and Poor's
+Rabo New Zealand,2002-09-30 00:00:00,0,Standard and Poor's
+Rabo New Zealand,2002-12-31 00:00:00,0,Standard and Poor's
+Rabo New Zealand,2003-03-31 00:00:00,0,Standard and Poor's
+Rabo New Zealand,2003-06-30 00:00:00,0,Standard and Poor's
+Rabo New Zealand,2003-09-30 00:00:00,0,Standard and Poor's
+Rabo New Zealand,2003-12-31 00:00:00,0,Standard and Poor's
+Rabo New Zealand,2004-03-31 00:00:00,0,Standard and Poor's
+Rabo New Zealand,2004-06-30 00:00:00,0,Standard and Poor's
+Rabo New Zealand,2004-09-30 00:00:00,0,Standard and Poor's
+Rabo New Zealand,2004-12-31 00:00:00,0,Standard and Poor's
+Rabo New Zealand,2005-03-31 00:00:00,0,Standard and Poor's
+Rabo New Zealand,2005-06-30 00:00:00,0,Standard and Poor's
+Rabo New Zealand,2005-09-30 00:00:00,0,Standard and Poor's
+Rabo New Zealand,2005-12-31 00:00:00,0,Standard and Poor's
+Rabo New Zealand,2006-03-31 00:00:00,0,Standard and Poor's
+Rabo New Zealand,2006-06-30 00:00:00,0,Standard and Poor's
+Rabo New Zealand,2006-09-30 00:00:00,0,Standard and Poor's
+Rabo New Zealand,2006-12-31 00:00:00,0,Standard and Poor's
+Rabo New Zealand,2007-03-31 00:00:00,0,Standard and Poor's
+Rabo New Zealand,2007-06-30 00:00:00,0,Standard and Poor's
+Rabo New Zealand,2007-09-30 00:00:00,0,Standard and Poor's
+Rabo New Zealand,2007-12-31 00:00:00,0,Standard and Poor's
+Rabo New Zealand,2008-03-31 00:00:00,0,Standard and Poor's
+Rabo New Zealand,2008-06-30 00:00:00,0,Standard and Poor's
+Rabo New Zealand,2008-09-30 00:00:00,0,Standard and Poor's
+Rabo New Zealand,2008-12-31 00:00:00,0,Standard and Poor's
+Rabo New Zealand,2009-03-31 00:00:00,0,Standard and Poor's
+Rabo New Zealand,2009-06-30 00:00:00,0,Standard and Poor's
+Rabo New Zealand,2009-09-30 00:00:00,0,Standard and Poor's
+Rabo New Zealand,2009-12-31 00:00:00,0,Standard and Poor's
+Rabo New Zealand,2010-03-31 00:00:00,0,Standard and Poor's
+Rabo New Zealand,2010-06-30 00:00:00,0,Standard and Poor's
+Rabo New Zealand,2010-09-30 00:00:00,0,Standard and Poor's
+Rabo New Zealand,2010-12-31 00:00:00,0,Standard and Poor's
+Rabo New Zealand,2011-03-31 00:00:00,0,Standard and Poor's
+Rabo New Zealand,2011-06-30 00:00:00,0,Standard and Poor's
+Rabo New Zealand,2011-09-30 00:00:00,0,Standard and Poor's
+Rabo New Zealand,2011-12-31 00:00:00,2,Standard and Poor's
+Rabo New Zealand,2012-03-31 00:00:00,2,Standard and Poor's
+Rabo New Zealand,2012-06-30 00:00:00,2,Standard and Poor's
+Rabo New Zealand,2012-09-30 00:00:00,2,Standard and Poor's
+Rabo New Zealand,2012-12-31 00:00:00,3,Standard and Poor's
+Rabo New Zealand,2013-03-31 00:00:00,3,Standard and Poor's
+Rabo New Zealand,2013-06-30 00:00:00,3,Standard and Poor's
+Rabo New Zealand,2013-09-30 00:00:00,3,Standard and Poor's
+Rabo New Zealand,2013-12-31 00:00:00,3,Standard and Poor's
+Rabo New Zealand,2014-03-31 00:00:00,3,Standard and Poor's
+Rabo New Zealand,2014-06-30 00:00:00,3,Standard and Poor's
+Rabo New Zealand,2014-09-30 00:00:00,4,Standard and Poor's
+Rabo New Zealand,2014-12-31 00:00:00,4,Standard and Poor's
+Rabo New Zealand,2015-03-31 00:00:00,5,Standard and Poor's
+Rabo New Zealand,2015-06-30 00:00:00,5,Standard and Poor's
+Rabo New Zealand,2015-09-30 00:00:00,5,Standard and Poor's
+Rabo New Zealand,2015-12-31 00:00:00,5,Standard and Poor's
+Rabo New Zealand,2016-03-31 00:00:00,5,Standard and Poor's
+Rabo New Zealand,2016-06-30 00:00:00,5,Standard and Poor's
+Rabo New Zealand,2016-09-30 00:00:00,5,Standard and Poor's
+Rabo New Zealand,2016-12-31 00:00:00,5,Standard and Poor's
+Rabo New Zealand,2017-03-31 00:00:00,5,Standard and Poor's
+Rabo New Zealand,2017-06-30 00:00:00,5,Standard and Poor's
+Rabo New Zealand,2017-09-30 00:00:00,5,Standard and Poor's
+Rabo New Zealand,2017-12-31 00:00:00,5,Standard and Poor's
+Kiwibank,2001-12-31 00:00:00,3,Standard and Poor's
+Kiwibank,2002-03-31 00:00:00,3,Standard and Poor's
+Kiwibank,2002-06-30 00:00:00,3,Standard and Poor's
+Kiwibank,2002-09-30 00:00:00,3,Standard and Poor's
+Kiwibank,2002-12-31 00:00:00,3,Standard and Poor's
+Kiwibank,2003-03-31 00:00:00,3,Standard and Poor's
+Kiwibank,2003-06-30 00:00:00,3,Standard and Poor's
+Kiwibank,2003-09-30 00:00:00,3,Standard and Poor's
+Kiwibank,2003-12-31 00:00:00,3,Standard and Poor's
+Kiwibank,2004-03-31 00:00:00,3,Standard and Poor's
+Kiwibank,2004-06-30 00:00:00,3,Standard and Poor's
+Kiwibank,2004-09-30 00:00:00,3,Standard and Poor's
+Kiwibank,2004-12-31 00:00:00,3,Standard and Poor's
+Kiwibank,2005-03-31 00:00:00,3,Standard and Poor's
+Kiwibank,2005-06-30 00:00:00,3,Standard and Poor's
+Kiwibank,2005-09-30 00:00:00,3,Standard and Poor's
+Kiwibank,2005-12-31 00:00:00,3,Standard and Poor's
+Kiwibank,2006-03-31 00:00:00,3,Standard and Poor's
+Kiwibank,2006-06-30 00:00:00,3,Standard and Poor's
+Kiwibank,2006-09-30 00:00:00,3,Standard and Poor's
+Kiwibank,2006-12-31 00:00:00,3,Standard and Poor's
+Kiwibank,2007-03-31 00:00:00,3,Standard and Poor's
+Kiwibank,2007-06-30 00:00:00,3,Standard and Poor's
+Kiwibank,2007-09-30 00:00:00,3,Standard and Poor's
+Kiwibank,2007-12-31 00:00:00,3,Standard and Poor's
+Kiwibank,2008-03-31 00:00:00,3,Standard and Poor's
+Kiwibank,2008-06-30 00:00:00,3,Standard and Poor's
+Kiwibank,2008-09-30 00:00:00,3,Standard and Poor's
+Kiwibank,2008-12-31 00:00:00,3,Standard and Poor's
+Kiwibank,2009-03-31 00:00:00,3,Standard and Poor's
+Kiwibank,2009-06-30 00:00:00,3,Standard and Poor's
+Kiwibank,2009-09-30 00:00:00,3,Standard and Poor's
+Kiwibank,2009-12-31 00:00:00,3,Standard and Poor's
+Kiwibank,2010-03-31 00:00:00,3,Standard and Poor's
+Kiwibank,2010-06-30 00:00:00,3,Standard and Poor's
+Kiwibank,2010-09-30 00:00:00,3,Standard and Poor's
+Kiwibank,2010-12-31 00:00:00,3,Standard and Poor's
+Kiwibank,2011-03-31 00:00:00,3,Moody's
+Kiwibank,2011-03-31 00:00:00,3,Standard and Poor's
+Kiwibank,2011-06-30 00:00:00,3,Moody's
+Kiwibank,2011-06-30 00:00:00,3,Standard and Poor's
+Kiwibank,2011-09-30 00:00:00,3,Moody's
+Kiwibank,2011-09-30 00:00:00,3,Standard and Poor's
+Kiwibank,2011-12-31 00:00:00,3,Moody's
+Kiwibank,2011-12-31 00:00:00,3,Standard and Poor's
+Kiwibank,2012-03-31 00:00:00,3,Moody's
+Kiwibank,2012-03-31 00:00:00,3,Standard and Poor's
+Kiwibank,2012-06-30 00:00:00,3,Moody's
+Kiwibank,2012-06-30 00:00:00,3,Standard and Poor's
+Kiwibank,2012-06-30 00:00:00,1,Fitch
+Kiwibank,2012-09-30 00:00:00,3,Moody's
+Kiwibank,2012-09-30 00:00:00,4,Standard and Poor's
+Kiwibank,2012-09-30 00:00:00,1,Fitch
+Kiwibank,2012-12-31 00:00:00,3,Moody's
+Kiwibank,2012-12-31 00:00:00,4,Standard and Poor's
+Kiwibank,2012-12-31 00:00:00,1,Fitch
+Kiwibank,2013-03-31 00:00:00,3,Moody's
+Kiwibank,2013-03-31 00:00:00,4,Standard and Poor's
+Kiwibank,2013-03-31 00:00:00,1,Fitch
+Kiwibank,2013-06-30 00:00:00,3,Moody's
+Kiwibank,2013-06-30 00:00:00,4,Standard and Poor's
+Kiwibank,2013-06-30 00:00:00,1,Fitch
+Kiwibank,2013-09-30 00:00:00,3,Moody's
+Kiwibank,2013-09-30 00:00:00,4,Standard and Poor's
+Kiwibank,2013-09-30 00:00:00,1,Fitch
+Kiwibank,2013-12-31 00:00:00,3,Moody's
+Kiwibank,2013-12-31 00:00:00,4,Standard and Poor's
+Kiwibank,2013-12-31 00:00:00,1,Fitch
+Kiwibank,2014-03-31 00:00:00,3,Moody's
+Kiwibank,2014-03-31 00:00:00,4,Standard and Poor's
+Kiwibank,2014-03-31 00:00:00,1,Fitch
+Kiwibank,2014-06-30 00:00:00,3,Moody's
+Kiwibank,2014-06-30 00:00:00,4,Standard and Poor's
+Kiwibank,2014-06-30 00:00:00,1,Fitch
+Kiwibank,2014-09-30 00:00:00,3,Moody's
+Kiwibank,2014-09-30 00:00:00,4,Standard and Poor's
+Kiwibank,2014-09-30 00:00:00,1,Fitch
+Kiwibank,2014-12-31 00:00:00,3,Moody's
+Kiwibank,2014-12-31 00:00:00,4,Standard and Poor's
+Kiwibank,2014-12-31 00:00:00,1,Fitch
+Kiwibank,2015-03-31 00:00:00,3,Moody's
+Kiwibank,2015-03-31 00:00:00,4,Standard and Poor's
+Kiwibank,2015-03-31 00:00:00,1,Fitch
+Kiwibank,2015-06-30 00:00:00,3,Moody's
+Kiwibank,2015-06-30 00:00:00,4,Standard and Poor's
+Kiwibank,2015-06-30 00:00:00,1,Fitch
+Kiwibank,2015-09-30 00:00:00,3,Moody's
+Kiwibank,2015-09-30 00:00:00,4,Standard and Poor's
+Kiwibank,2015-09-30 00:00:00,1,Fitch
+Kiwibank,2015-12-31 00:00:00,3,Moody's
+Kiwibank,2015-12-31 00:00:00,4,Standard and Poor's
+Kiwibank,2015-12-31 00:00:00,1,Fitch
+Kiwibank,2016-03-31 00:00:00,3,Moody's
+Kiwibank,2016-03-31 00:00:00,4,Standard and Poor's
+Kiwibank,2016-03-31 00:00:00,1,Fitch
+Kiwibank,2016-06-30 00:00:00,3,Moody's
+Kiwibank,2016-06-30 00:00:00,4,Standard and Poor's
+Kiwibank,2016-06-30 00:00:00,1,Fitch
+Kiwibank,2016-09-30 00:00:00,3,Moody's
+Kiwibank,2016-09-30 00:00:00,4,Standard and Poor's
+Kiwibank,2016-09-30 00:00:00,1,Fitch
+Kiwibank,2016-12-31 00:00:00,3,Moody's
+Kiwibank,2016-12-31 00:00:00,4,Standard and Poor's
+Kiwibank,2016-12-31 00:00:00,1,Fitch
+Kiwibank,2017-03-31 00:00:00,4,Moody's
+Kiwibank,2017-03-31 00:00:00,5,Standard and Poor's
+Kiwibank,2017-03-31 00:00:00,2,Fitch
+Kiwibank,2017-06-30 00:00:00,4,Moody's
+Kiwibank,2017-06-30 00:00:00,5,Standard and Poor's
+Kiwibank,2017-06-30 00:00:00,2,Fitch
+Kiwibank,2017-09-30 00:00:00,4,Moody's
+Kiwibank,2017-09-30 00:00:00,5,Standard and Poor's
+Kiwibank,2017-09-30 00:00:00,2,Fitch
+Kiwibank,2017-12-31 00:00:00,4,Moody's
+Kiwibank,2017-12-31 00:00:00,5,Standard and Poor's
+Kiwibank,2017-12-31 00:00:00,2,Fitch
+TSB,2002-03-31 00:00:00,9,Standard and Poor's
+TSB,2002-06-30 00:00:00,9,Standard and Poor's
+TSB,2002-09-30 00:00:00,9,Standard and Poor's
+TSB,2002-12-31 00:00:00,9,Standard and Poor's
+TSB,2003-03-31 00:00:00,9,Standard and Poor's
+TSB,2003-06-30 00:00:00,9,Standard and Poor's
+TSB,2003-09-30 00:00:00,9,Standard and Poor's
+TSB,2003-12-31 00:00:00,9,Standard and Poor's
+TSB,2004-03-31 00:00:00,9,Standard and Poor's
+TSB,2004-06-30 00:00:00,9,Standard and Poor's
+TSB,2004-12-31 00:00:00,9,Standard and Poor's
+TSB,2005-03-31 00:00:00,9,Standard and Poor's
+TSB,2005-06-30 00:00:00,9,Standard and Poor's
+TSB,2005-09-30 00:00:00,9,Standard and Poor's
+TSB,2005-12-31 00:00:00,9,Standard and Poor's
+TSB,2006-03-31 00:00:00,9,Standard and Poor's
+TSB,2006-06-30 00:00:00,9,Standard and Poor's
+TSB,2006-09-30 00:00:00,8,Standard and Poor's
+TSB,2006-12-31 00:00:00,8,Standard and Poor's
+TSB,2007-03-31 00:00:00,8,Standard and Poor's
+TSB,2007-06-30 00:00:00,8,Standard and Poor's
+TSB,2007-09-30 00:00:00,8,Standard and Poor's
+TSB,2007-12-31 00:00:00,8,Standard and Poor's
+TSB,2008-03-31 00:00:00,7,Standard and Poor's
+TSB,2008-06-30 00:00:00,7,Standard and Poor's
+TSB,2008-09-30 00:00:00,7,Standard and Poor's
+TSB,2008-12-31 00:00:00,7,Standard and Poor's
+TSB,2009-03-31 00:00:00,7,Standard and Poor's
+TSB,2009-06-30 00:00:00,7,Standard and Poor's
+TSB,2009-09-30 00:00:00,7,Standard and Poor's
+TSB,2009-12-31 00:00:00,7,Standard and Poor's
+TSB,2010-03-31 00:00:00,7,Standard and Poor's
+TSB,2010-06-30 00:00:00,7,Standard and Poor's
+TSB,2010-09-30 00:00:00,7,Standard and Poor's
+TSB,2010-12-31 00:00:00,7,Standard and Poor's
+TSB,2011-03-31 00:00:00,7,Standard and Poor's
+TSB,2011-06-30 00:00:00,7,Standard and Poor's
+TSB,2011-09-30 00:00:00,7,Standard and Poor's
+TSB,2011-12-31 00:00:00,7,Standard and Poor's
+TSB,2012-03-31 00:00:00,7,Standard and Poor's
+TSB,2012-06-30 00:00:00,7,Standard and Poor's
+TSB,2012-09-30 00:00:00,7,Standard and Poor's
+TSB,2012-12-31 00:00:00,7,Standard and Poor's
+TSB,2013-03-31 00:00:00,7,Standard and Poor's
+TSB,2013-06-30 00:00:00,7,Standard and Poor's
+TSB,2013-09-30 00:00:00,7,Standard and Poor's
+TSB,2013-12-31 00:00:00,7,Standard and Poor's
+TSB,2014-03-31 00:00:00,7,Standard and Poor's
+TSB,2014-06-30 00:00:00,7,Standard and Poor's
+TSB,2014-06-30 00:00:00,6,Fitch
+TSB,2014-09-30 00:00:00,7,Standard and Poor's
+TSB,2014-09-30 00:00:00,6,Fitch
+TSB,2014-12-31 00:00:00,7,Standard and Poor's
+TSB,2014-12-31 00:00:00,6,Fitch
+TSB,2015-03-31 00:00:00,7,Standard and Poor's
+TSB,2015-03-31 00:00:00,6,Fitch
+TSB,2015-06-30 00:00:00,6,Fitch
+TSB,2015-09-30 00:00:00,6,Fitch
+TSB,2015-12-31 00:00:00,6,Fitch
+TSB,2016-03-31 00:00:00,6,Fitch
+TSB,2016-06-30 00:00:00,6,Fitch
+TSB,2016-09-30 00:00:00,6,Fitch
+TSB,2016-12-31 00:00:00,6,Fitch
+TSB,2017-03-31 00:00:00,6,Fitch
+TSB,2017-06-30 00:00:00,6,Fitch
+TSB,2017-09-30 00:00:00,6,Fitch
+TSB,2017-12-31 00:00:00,6,Fitch
+TSB,2018-09-30 00:00:00,9,Standard and Poor's
+St. George Bank,2003-03-31 00:00:00,9,Standard and Poor's
+St. George Bank,2003-06-30 00:00:00,9,Standard and Poor's
+St. George Bank,2003-09-30 00:00:00,9,Standard and Poor's
+St. George Bank,2003-12-31 00:00:00,9,Standard and Poor's
+St. George Bank,2004-03-31 00:00:00,9,Standard and Poor's
+St. George Bank,2004-06-30 00:00:00,9,Standard and Poor's
+St. George Bank,2004-09-30 00:00:00,9,Standard and Poor's
+St. George Bank,2004-12-31 00:00:00,9,Standard and Poor's
+St. George Bank,2005-03-31 00:00:00,9,Standard and Poor's
+St. George Bank,2005-06-30 00:00:00,9,Standard and Poor's
+St. George Bank,2005-09-30 00:00:00,9,Standard and Poor's
+St. George Bank,2005-12-31 00:00:00,8,Standard and Poor's
+St. George Bank,2006-03-31 00:00:00,8,Standard and Poor's
+St. George Bank,2006-06-30 00:00:00,8,Standard and Poor's
+Westpac,2006-12-31 00:00:00,3,Moody's
+Westpac,2006-12-31 00:00:00,3,Standard and Poor's
+Westpac,2007-03-31 00:00:00,3,Moody's
+Westpac,2007-03-31 00:00:00,2,Standard and Poor's
+Westpac,2007-06-30 00:00:00,2,Moody's
+Westpac,2007-06-30 00:00:00,2,Standard and Poor's
+Westpac,2007-09-30 00:00:00,2,Moody's
+Westpac,2007-09-30 00:00:00,2,Standard and Poor's
+Westpac,2007-12-31 00:00:00,2,Moody's
+Westpac,2007-12-31 00:00:00,2,Standard and Poor's
+Westpac,2008-03-31 00:00:00,2,Moody's
+Westpac,2008-03-31 00:00:00,2,Standard and Poor's
+Westpac,2008-06-30 00:00:00,2,Moody's
+Westpac,2008-06-30 00:00:00,2,Standard and Poor's
+Westpac,2008-09-30 00:00:00,2,Moody's
+Westpac,2008-09-30 00:00:00,2,Standard and Poor's
+Westpac,2008-09-30 00:00:00,3,Fitch
+Westpac,2008-12-31 00:00:00,2,Moody's
+Westpac,2008-12-31 00:00:00,2,Standard and Poor's
+Westpac,2008-12-31 00:00:00,3,Fitch
+Westpac,2009-03-31 00:00:00,2,Moody's
+Westpac,2009-03-31 00:00:00,2,Standard and Poor's
+Westpac,2009-03-31 00:00:00,3,Fitch
+Westpac,2009-06-30 00:00:00,2,Moody's
+Westpac,2009-06-30 00:00:00,2,Standard and Poor's
+Westpac,2009-06-30 00:00:00,3,Fitch
+Westpac,2009-09-30 00:00:00,2,Moody's
+Westpac,2009-09-30 00:00:00,2,Standard and Poor's
+Westpac,2009-09-30 00:00:00,3,Fitch
+Westpac,2009-12-31 00:00:00,2,Moody's
+Westpac,2009-12-31 00:00:00,2,Standard and Poor's
+Westpac,2009-12-31 00:00:00,3,Fitch
+Westpac,2010-03-31 00:00:00,2,Moody's
+Westpac,2010-03-31 00:00:00,2,Standard and Poor's
+Westpac,2010-03-31 00:00:00,2,Fitch
+Westpac,2010-06-30 00:00:00,2,Moody's
+Westpac,2010-06-30 00:00:00,2,Standard and Poor's
+Westpac,2010-06-30 00:00:00,2,Fitch
+Westpac,2010-09-30 00:00:00,2,Moody's
+Westpac,2010-09-30 00:00:00,2,Standard and Poor's
+Westpac,2010-09-30 00:00:00,2,Fitch
+Westpac,2010-12-31 00:00:00,2,Moody's
+Westpac,2010-12-31 00:00:00,2,Standard and Poor's
+Westpac,2010-12-31 00:00:00,2,Fitch
+Westpac,2011-03-31 00:00:00,2,Moody's
+Westpac,2011-03-31 00:00:00,2,Standard and Poor's
+Westpac,2011-03-31 00:00:00,2,Fitch
+Westpac,2011-06-30 00:00:00,3,Moody's
+Westpac,2011-06-30 00:00:00,2,Standard and Poor's
+Westpac,2011-06-30 00:00:00,2,Fitch
+Westpac,2011-09-30 00:00:00,3,Moody's
+Westpac,2011-09-30 00:00:00,3,Standard and Poor's
+Westpac,2011-09-30 00:00:00,2,Fitch
+Westpac,2011-12-31 00:00:00,3,Moody's
+Westpac,2011-12-31 00:00:00,3,Standard and Poor's
+Westpac,2011-12-31 00:00:00,3,Fitch
+Westpac,2012-03-31 00:00:00,3,Moody's
+Westpac,2012-03-31 00:00:00,3,Standard and Poor's
+Westpac,2012-03-31 00:00:00,3,Fitch
+Westpac,2012-06-30 00:00:00,3,Moody's
+Westpac,2012-06-30 00:00:00,3,Standard and Poor's
+Westpac,2012-06-30 00:00:00,3,Fitch
+Westpac,2012-09-30 00:00:00,3,Moody's
+Westpac,2012-09-30 00:00:00,3,Standard and Poor's
+Westpac,2012-09-30 00:00:00,3,Fitch
+Westpac,2012-12-31 00:00:00,3,Moody's
+Westpac,2012-12-31 00:00:00,3,Standard and Poor's
+Westpac,2012-12-31 00:00:00,3,Fitch
+Westpac,2013-03-31 00:00:00,3,Moody's
+Westpac,2013-03-31 00:00:00,3,Standard and Poor's
+Westpac,2013-03-31 00:00:00,3,Fitch
+Westpac,2013-06-30 00:00:00,3,Moody's
+Westpac,2013-06-30 00:00:00,3,Standard and Poor's
+Westpac,2013-06-30 00:00:00,3,Fitch
+Westpac,2013-09-30 00:00:00,3,Moody's
+Westpac,2013-09-30 00:00:00,3,Standard and Poor's
+Westpac,2013-09-30 00:00:00,3,Fitch
+Westpac,2013-12-31 00:00:00,3,Moody's
+Westpac,2013-12-31 00:00:00,3,Standard and Poor's
+Westpac,2013-12-31 00:00:00,3,Fitch
+Westpac,2014-03-31 00:00:00,3,Moody's
+Westpac,2014-03-31 00:00:00,3,Standard and Poor's
+Westpac,2014-03-31 00:00:00,3,Fitch
+Westpac,2014-06-30 00:00:00,3,Moody's
+Westpac,2014-06-30 00:00:00,3,Standard and Poor's
+Westpac,2014-06-30 00:00:00,3,Fitch
+Westpac,2014-09-30 00:00:00,3,Moody's
+Westpac,2014-09-30 00:00:00,3,Standard and Poor's
+Westpac,2014-09-30 00:00:00,3,Fitch
+Westpac,2014-12-31 00:00:00,3,Moody's
+Westpac,2014-12-31 00:00:00,3,Standard and Poor's
+Westpac,2014-12-31 00:00:00,3,Fitch
+Westpac,2015-03-31 00:00:00,3,Moody's
+Westpac,2015-03-31 00:00:00,3,Standard and Poor's
+Westpac,2015-03-31 00:00:00,3,Fitch
+Westpac,2015-06-30 00:00:00,3,Moody's
+Westpac,2015-06-30 00:00:00,3,Standard and Poor's
+Westpac,2015-06-30 00:00:00,3,Fitch
+Westpac,2015-09-30 00:00:00,3,Moody's
+Westpac,2015-09-30 00:00:00,3,Standard and Poor's
+Westpac,2015-09-30 00:00:00,3,Fitch
+Westpac,2015-12-31 00:00:00,3,Moody's
+Westpac,2015-12-31 00:00:00,3,Standard and Poor's
+Westpac,2015-12-31 00:00:00,3,Fitch
+Westpac,2016-03-31 00:00:00,3,Moody's
+Westpac,2016-03-31 00:00:00,3,Standard and Poor's
+Westpac,2016-03-31 00:00:00,3,Fitch
+Westpac,2016-06-30 00:00:00,3,Moody's
+Westpac,2016-06-30 00:00:00,3,Standard and Poor's
+Westpac,2016-06-30 00:00:00,3,Fitch
+Westpac,2016-09-30 00:00:00,3,Moody's
+Westpac,2016-09-30 00:00:00,3,Standard and Poor's
+Westpac,2016-09-30 00:00:00,3,Fitch
+Westpac,2016-12-31 00:00:00,3,Moody's
+Westpac,2016-12-31 00:00:00,3,Standard and Poor's
+Westpac,2016-12-31 00:00:00,3,Fitch
+Westpac,2017-03-31 00:00:00,3,Moody's
+Westpac,2017-03-31 00:00:00,3,Standard and Poor's
+Westpac,2017-03-31 00:00:00,3,Fitch
+Westpac,2017-06-30 00:00:00,4,Moody's
+Westpac,2017-06-30 00:00:00,3,Standard and Poor's
+Westpac,2017-06-30 00:00:00,3,Fitch
+Westpac,2017-09-30 00:00:00,4,Moody's
+Westpac,2017-09-30 00:00:00,3,Standard and Poor's
+Westpac,2017-09-30 00:00:00,3,Fitch
+Westpac,2017-12-31 00:00:00,4,Moody's
+Westpac,2017-12-31 00:00:00,3,Standard and Poor's
+Westpac,2017-12-31 00:00:00,3,Fitch
+SBS,2008-12-31 00:00:00,8,Fitch
+SBS,2009-03-31 00:00:00,8,Fitch
+SBS,2009-06-30 00:00:00,8,Fitch
+SBS,2009-09-30 00:00:00,8,Fitch
+SBS,2009-12-31 00:00:00,8,Fitch
+SBS,2010-03-31 00:00:00,8,Fitch
+SBS,2010-06-30 00:00:00,8,Fitch
+SBS,2010-09-30 00:00:00,8,Fitch
+SBS,2010-12-31 00:00:00,8,Fitch
+SBS,2011-03-31 00:00:00,8,Fitch
+SBS,2011-06-30 00:00:00,8,Fitch
+SBS,2011-09-30 00:00:00,8,Fitch
+SBS,2011-12-31 00:00:00,8,Fitch
+SBS,2012-03-31 00:00:00,8,Fitch
+SBS,2012-06-30 00:00:00,8,Fitch
+SBS,2012-09-30 00:00:00,8,Fitch
+SBS,2012-12-31 00:00:00,8,Fitch
+SBS,2013-03-31 00:00:00,8,Fitch
+SBS,2013-06-30 00:00:00,8,Fitch
+SBS,2013-09-30 00:00:00,8,Fitch
+SBS,2013-12-31 00:00:00,8,Fitch
+SBS,2014-03-31 00:00:00,8,Fitch
+SBS,2014-06-30 00:00:00,8,Fitch
+SBS,2014-09-30 00:00:00,8,Fitch
+SBS,2014-12-31 00:00:00,8,Fitch
+SBS,2015-03-31 00:00:00,8,Fitch
+SBS,2015-06-30 00:00:00,8,Fitch
+SBS,2015-09-30 00:00:00,7,Fitch
+SBS,2015-12-31 00:00:00,7,Fitch
+SBS,2016-03-31 00:00:00,8,Fitch
+SBS,2016-06-30 00:00:00,8,Fitch
+SBS,2016-09-30 00:00:00,8,Fitch
+SBS,2016-12-31 00:00:00,8,Fitch
+SBS,2017-03-31 00:00:00,8,Fitch
+SBS,2017-06-30 00:00:00,8,Fitch
+SBS,2017-09-30 00:00:00,8,Fitch
+SBS,2017-12-31 00:00:00,8,Fitch
+Baroda,2009-09-30 00:00:00,9,Fitch
+Baroda,2009-12-31 00:00:00,9,Fitch
+Baroda,2010-03-31 00:00:00,9,Fitch
+Baroda,2010-06-30 00:00:00,9,Fitch
+Baroda,2010-09-30 00:00:00,9,Fitch
+Baroda,2010-12-31 00:00:00,9,Fitch
+Baroda,2011-03-31 00:00:00,9,Fitch
+Baroda,2011-06-30 00:00:00,9,Fitch
+Baroda,2011-09-30 00:00:00,9,Fitch
+Baroda,2011-12-31 00:00:00,9,Fitch
+Baroda,2012-03-31 00:00:00,9,Fitch
+Baroda,2012-06-30 00:00:00,9,Fitch
+Baroda,2012-09-30 00:00:00,9,Fitch
+Baroda,2012-12-31 00:00:00,9,Fitch
+Baroda,2013-03-31 00:00:00,9,Fitch
+Baroda,2013-06-30 00:00:00,9,Fitch
+Baroda,2013-09-30 00:00:00,9,Fitch
+Baroda,2013-12-31 00:00:00,9,Fitch
+Baroda,2014-03-31 00:00:00,9,Fitch
+Baroda,2014-06-30 00:00:00,9,Fitch
+Baroda,2014-09-30 00:00:00,9,Fitch
+Baroda,2014-12-31 00:00:00,9,Fitch
+Baroda,2015-03-31 00:00:00,9,Fitch
+Baroda,2015-06-30 00:00:00,9,Moody's
+Baroda,2015-06-30 00:00:00,9,Fitch
+Baroda,2015-09-30 00:00:00,9,Moody's
+Baroda,2015-09-30 00:00:00,9,Fitch
+Baroda,2015-12-31 00:00:00,9,Fitch
+Baroda,2016-03-31 00:00:00,9,Fitch
+Baroda,2016-06-30 00:00:00,9,Fitch
+Baroda,2016-09-30 00:00:00,9,Fitch
+Baroda,2016-12-31 00:00:00,9,Fitch
+Baroda,2017-03-31 00:00:00,9,Fitch
+Baroda,2017-06-30 00:00:00,9,Fitch
+Baroda,2017-09-30 00:00:00,9,Fitch
+Baroda,2017-12-31 00:00:00,9,Fitch
+Bank of India,2011-03-31 00:00:00,9,Standard and Poor's
+Bank of India,2011-06-30 00:00:00,9,Standard and Poor's
+Bank of India,2011-09-30 00:00:00,9,Standard and Poor's
+Bank of India,2011-12-31 00:00:00,9,Standard and Poor's
+Bank of India,2012-03-31 00:00:00,9,Standard and Poor's
+Bank of India,2012-06-30 00:00:00,9,Standard and Poor's
+Bank of India,2012-09-30 00:00:00,9,Standard and Poor's
+Bank of India,2012-12-31 00:00:00,9,Standard and Poor's
+Bank of India,2013-03-31 00:00:00,9,Standard and Poor's
+Bank of India,2013-06-30 00:00:00,9,Standard and Poor's
+Bank of India,2013-09-30 00:00:00,9,Standard and Poor's
+Bank of India,2013-12-31 00:00:00,9,Standard and Poor's
+Bank of India,2014-03-31 00:00:00,9,Standard and Poor's
+Bank of India,2014-06-30 00:00:00,9,Standard and Poor's
+Bank of India,2014-09-30 00:00:00,9,Standard and Poor's
+Bank of India,2014-12-31 00:00:00,9,Standard and Poor's
+Bank of India,2015-03-31 00:00:00,9,Standard and Poor's
+Bank of India,2015-06-30 00:00:00,9,Standard and Poor's
+Bank of India,2015-09-30 00:00:00,9,Standard and Poor's
+Bank of India,2015-12-31 00:00:00,9,Standard and Poor's
+Bank of India,2016-03-31 00:00:00,10,Standard and Poor's
+Bank of India,2016-06-30 00:00:00,10,Standard and Poor's
+Bank of India,2016-09-30 00:00:00,10,Standard and Poor's
+Bank of India,2016-12-31 00:00:00,10,Standard and Poor's
+Bank of India,2017-03-31 00:00:00,10,Standard and Poor's
+Bank of India,2017-06-30 00:00:00,10,Standard and Poor's
+Bank of India,2017-09-30 00:00:00,10,Standard and Poor's
+Bank of India,2017-12-31 00:00:00,10,Standard and Poor's
+Co-op Bank,2012-03-31 00:00:00,9,Standard and Poor's
+Co-op Bank,2012-06-30 00:00:00,9,Standard and Poor's
+Co-op Bank,2012-09-30 00:00:00,9,Standard and Poor's
+Co-op Bank,2012-12-31 00:00:00,9,Standard and Poor's
+Co-op Bank,2013-03-31 00:00:00,9,Standard and Poor's
+Co-op Bank,2013-06-30 00:00:00,9,Standard and Poor's
+Co-op Bank,2013-09-30 00:00:00,9,Standard and Poor's
+Co-op Bank,2013-12-31 00:00:00,9,Fitch
+Co-op Bank,2014-03-31 00:00:00,9,Fitch
+Co-op Bank,2014-06-30 00:00:00,9,Fitch
+Co-op Bank,2014-09-30 00:00:00,9,Fitch
+Co-op Bank,2014-12-31 00:00:00,9,Fitch
+Co-op Bank,2015-03-31 00:00:00,9,Fitch
+Co-op Bank,2015-06-30 00:00:00,9,Fitch
+Co-op Bank,2015-09-30 00:00:00,9,Fitch
+Co-op Bank,2015-12-31 00:00:00,9,Fitch
+Co-op Bank,2016-03-31 00:00:00,9,Fitch
+Co-op Bank,2016-06-30 00:00:00,9,Fitch
+Co-op Bank,2016-09-30 00:00:00,9,Fitch
+Co-op Bank,2016-12-31 00:00:00,8,Fitch
+Co-op Bank,2017-03-31 00:00:00,8,Fitch
+Co-op Bank,2017-06-30 00:00:00,8,Fitch
+Co-op Bank,2017-09-30 00:00:00,8,Fitch
+Co-op Bank,2017-12-31 00:00:00,8,Fitch
+Heartland,2012-12-31 00:00:00,9,Standard and Poor's
+Heartland,2013-03-31 00:00:00,9,Standard and Poor's
+Heartland,2013-06-30 00:00:00,9,Standard and Poor's
+Heartland,2013-09-30 00:00:00,9,Standard and Poor's
+Heartland,2013-09-30 00:00:00,9,Fitch
+Heartland,2013-12-31 00:00:00,9,Standard and Poor's
+Heartland,2013-12-31 00:00:00,9,Fitch
+Heartland,2014-03-31 00:00:00,9,Standard and Poor's
+Heartland,2014-03-31 00:00:00,9,Fitch
+Heartland,2014-06-30 00:00:00,8,Standard and Poor's
+Heartland,2014-06-30 00:00:00,9,Fitch
+Heartland,2014-09-30 00:00:00,8,Standard and Poor's
+Heartland,2014-09-30 00:00:00,8,Fitch
+Heartland,2014-12-31 00:00:00,8,Fitch
+Heartland,2015-03-31 00:00:00,8,Fitch
+Heartland,2015-06-30 00:00:00,8,Fitch
+Heartland,2015-09-30 00:00:00,8,Fitch
+Heartland,2015-12-31 00:00:00,8,Fitch
+Heartland,2016-03-31 00:00:00,8,Fitch
+Heartland,2016-06-30 00:00:00,8,Fitch
+Heartland,2016-09-30 00:00:00,8,Fitch
+Heartland,2016-12-31 00:00:00,8,Fitch
+Heartland,2017-03-31 00:00:00,8,Fitch
+Heartland,2017-06-30 00:00:00,8,Fitch
+Heartland,2017-09-30 00:00:00,8,Fitch
+Heartland,2017-12-31 00:00:00,8,Fitch
+ICBC,2013-12-31 00:00:00,5,Standard and Poor's
+ICBC,2014-03-31 00:00:00,5,Standard and Poor's
+ICBC,2014-06-30 00:00:00,5,Standard and Poor's
+ICBC,2014-09-30 00:00:00,5,Standard and Poor's
+ICBC,2014-12-31 00:00:00,5,Standard and Poor's
+ICBC,2015-03-31 00:00:00,5,Standard and Poor's
+ICBC,2015-06-30 00:00:00,5,Moody's
+ICBC,2015-06-30 00:00:00,5,Standard and Poor's
+ICBC,2015-09-30 00:00:00,4,Moody's
+ICBC,2015-09-30 00:00:00,5,Standard and Poor's
+ICBC,2015-12-31 00:00:00,4,Moody's
+ICBC,2015-12-31 00:00:00,5,Standard and Poor's
+ICBC,2016-03-31 00:00:00,4,Moody's
+ICBC,2016-03-31 00:00:00,5,Standard and Poor's
+ICBC,2016-06-30 00:00:00,4,Moody's
+ICBC,2016-06-30 00:00:00,5,Standard and Poor's
+ICBC,2016-09-30 00:00:00,4,Moody's
+ICBC,2016-09-30 00:00:00,5,Standard and Poor's
+ICBC,2016-12-31 00:00:00,4,Moody's
+ICBC,2016-12-31 00:00:00,5,Standard and Poor's
+ICBC,2017-03-31 00:00:00,4,Moody's
+ICBC,2017-03-31 00:00:00,5,Standard and Poor's
+ICBC,2017-06-30 00:00:00,4,Moody's
+ICBC,2017-06-30 00:00:00,5,Standard and Poor's
+ICBC,2017-09-30 00:00:00,4,Moody's
+ICBC,2017-09-30 00:00:00,5,Standard and Poor's
+ICBC,2017-12-31 00:00:00,4,Moody's
+ICBC,2017-12-31 00:00:00,5,Standard and Poor's
+China Construction,2014-09-30 00:00:00,5,Standard and Poor's
+China Construction,2014-12-31 00:00:00,5,Standard and Poor's
+China Construction,2015-03-31 00:00:00,5,Standard and Poor's
+China Construction,2015-06-30 00:00:00,4,Moody's
+China Construction,2015-06-30 00:00:00,5,Standard and Poor's
+China Construction,2015-09-30 00:00:00,4,Moody's
+China Construction,2015-09-30 00:00:00,5,Standard and Poor's
+China Construction,2015-12-31 00:00:00,4,Moody's
+China Construction,2015-12-31 00:00:00,5,Standard and Poor's
+China Construction,2016-03-31 00:00:00,4,Moody's
+China Construction,2016-03-31 00:00:00,5,Standard and Poor's
+China Construction,2016-06-30 00:00:00,4,Moody's
+China Construction,2016-06-30 00:00:00,5,Standard and Poor's
+China Construction,2016-09-30 00:00:00,4,Moody's
+China Construction,2016-09-30 00:00:00,5,Standard and Poor's
+China Construction,2016-12-31 00:00:00,4,Moody's
+China Construction,2016-12-31 00:00:00,5,Standard and Poor's
+China Construction,2017-03-31 00:00:00,4,Moody's
+China Construction,2017-03-31 00:00:00,5,Standard and Poor's
+China Construction,2017-06-30 00:00:00,4,Moody's
+China Construction,2017-06-30 00:00:00,5,Standard and Poor's
+China Construction,2017-09-30 00:00:00,4,Moody's
+China Construction,2017-09-30 00:00:00,5,Standard and Poor's
+China Construction,2017-12-31 00:00:00,4,Moody's
+China Construction,2017-12-31 00:00:00,5,Standard and Poor's
+Bank of China,2014-12-31 00:00:00,4,Moody's
+Bank of China,2015-03-31 00:00:00,4,Moody's
+Bank of China,2015-06-30 00:00:00,4,Moody's
+Bank of China,2015-09-30 00:00:00,4,Moody's
+Bank of China,2015-12-31 00:00:00,4,Moody's
+Bank of China,2016-03-31 00:00:00,4,Moody's
+Bank of China,2016-06-30 00:00:00,4,Moody's
+Bank of China,2016-09-30 00:00:00,4,Moody's
+Bank of China,2016-12-31 00:00:00,4,Moody's
+Bank of China,2017-03-31 00:00:00,4,Moody's
+Bank of China,2017-06-30 00:00:00,4,Moody's
+Bank of China,2017-06-30 00:00:00,5,Standard and Poor's
+Bank of China,2017-09-30 00:00:00,4,Moody's
+Bank of China,2017-09-30 00:00:00,5,Standard and Poor's
+Bank of China,2017-12-31 00:00:00,4,Moody's
+Bank of China,2017-12-31 00:00:00,5,Standard and Poor's
