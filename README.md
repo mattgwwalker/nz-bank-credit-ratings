@@ -19,7 +19,7 @@ The database needs to be created and then instantiated with data such as the nam
 
 The ratings that the issuers provide also need to be inserted into the database.  The [graphic at interest.co.nz](https://www.interest.co.nz/credit-ratings-explained) helps comprehend the ratings system.  Using that graphic, I translated the ratings into a score from 0 (the very best; Aaa or AAA ratings) to 19 (C or D ratings).
 
-The commands to create the database and to instantiate it with data can be found in the file [ratings.sql](ratings.sql).
+The commands to create the database and to instantiate it with data can be found in the file [ratings.sql](https://github.com/mattgwwalker/nz-bank-credit-ratings/blob/master/ratings.sql).
 
 To run those commands SQLite3 needs to be installed; within a Bash environment (Mac Terminal, Linux shell, or Cygwin for Windows) execute:
 
@@ -30,7 +30,7 @@ This will create a database named ratings.sql with four tables: Banks, Issuers, 
 
 ## Python
  
-The Python script [process.py](process.py) is responsible for reading the multi-sheet Excel file and saving the data into the SQLite database.
+The Python script [process.py](https://github.com/mattgwwalker/nz-bank-credit-ratings/blob/master/process.py) is responsible for reading the multi-sheet Excel file and saving the data into the SQLite database.
 
 In many cases the raw file provided by the Reserve Bank used multiple names for the same bank.  For example, the National Bank is referred to as “National” and “National Bank”.  The Python script is responsible for translating the many bank names into one bank identifier.  This wasn't necessarily straight forward.  For example, ANZ purchased the National Bank and for a while went under the name ASB National; these were all translated to the purchasing bank, ANZ.  The following table lists the different names and how they were translated.
 
@@ -100,8 +100,8 @@ To view the data resulting from running the Python script, I recommend using [DB
 
 ## R
 
-To produce visualisations of the processed data, I wrote an [R script](ratings.R).
+To produce visualisations of the processed data, I wrote an [R script](https://github.com/mattgwwalker/nz-bank-credit-ratings/blob/master/ratings.R).
 
 You will need to have [R](https://www.r-project.org/) installed, along with the package RSQLite.
  
-It produces the graphs in the file [ratings.pdf](ratings.pdf)
+It produces the graphs in the file [ratings.pdf](https://github.com/mattgwwalker/nz-bank-credit-ratings/blob/master/ratings.pdf)
